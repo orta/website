@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mennenia</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="www.mennenia.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>www.mennenia.com</link>
     <description></description>
     <pubDate>Sun, 01 Nov 2015 08:30:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>“NaBloWriMo”</title>
-      <link>http://localhost:8080/articles/2015-11-01-nablowrimo/</link>
+      <link>www.mennenia.com/articles/2015-11-01-nablowrimo/</link>
       <pubDate>Sun, 01 Nov 2015 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/2015-11-01-nablowrimo/</guid>
+      <guid isPermaLink="true">www.mennenia.com/articles/2015-11-01-nablowrimo/</guid>
       <author></author>
       <description>&lt;h2 id=&quot;nanowrimo-blog-edition&quot;&gt;NaNoWriMo - Blog edition&lt;/h2&gt;
 &lt;p&gt;I’ve keenly followed &lt;a href=&quot;http://nanowrimo.org&quot;&gt;NaNoWriMo&lt;/a&gt; (National Novel Writing Month) since I was fourteen or so, but never participated. I didn’t have ideas for a novel, I was too busy, something unexpected came up, you name it. &lt;/p&gt;
