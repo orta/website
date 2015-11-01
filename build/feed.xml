@@ -5,17 +5,42 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Sun, 01 Nov 2015 07:30:00 +0000</pubDate>
+    <pubDate>Sun, 01 Nov 2015 08:30:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:8080/articles/hello-world/</link>
-      <pubDate>Sun, 01 Nov 2015 07:30:00 +0000</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <title>“NaBloWriMo”</title>
+      <link>http://localhost:8080/articles/15-11-01-nablowrimo/</link>
+      <pubDate>Sun, 01 Nov 2015 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/15-11-01-nablowrimo/</guid>
       <author></author>
-      <description>&lt;h1 id=&quot;hi-there&quot;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;Because hello world is where it all starts.&lt;/p&gt;
+      <description>&lt;h2 id=&quot;nanowrimo-blog-edition&quot;&gt;NaNoWriMo - Blog edition&lt;/h2&gt;
+&lt;p&gt;I’ve keenly followed &lt;a href=&quot;http://nanowrimo.org&quot;&gt;NaNoWriMo&lt;/a&gt; (National Novel Writing Month) since I was fourteen or so, but never participated. I didn’t have ideas for a novel, I was too busy, something unexpected came up, you name it. &lt;/p&gt;
+&lt;p&gt;This year, I decided to change it up a bit. Instead of worrying about a novel, I’d tackle another writing project I’ve been wanting to get around to for &lt;em&gt;years&lt;/em&gt;. My blog.&lt;/p&gt;
+&lt;p&gt;Having had an on-and-off blog for as long as I can remember, it’s been too long without one. I briefly dabbled in a new wordpress one earlier this year (with too many unreleased posts), until &lt;a href=&quot;http://honzadvorsky.com&quot;&gt;Honza&lt;/a&gt; convinced me that something light and simple like &lt;a href=&quot;http://wintersmith.io&quot;&gt;Wintersmith&lt;/a&gt; was really the way forward. &lt;/p&gt;
+&lt;p&gt;It wasn’t just about the tools though. What I realised put me off blogging for so long is that whenever I read something back, it just didn’t seem right. You know that feeling when you hear yourself back on a recording? And your voice just sounds &lt;em&gt;off&lt;/em&gt;? That’s what I have every. single. time. &lt;/p&gt;
+&lt;p&gt;So, welcome November 2015. The month where I, hopefully, find my writing voice.&lt;/p&gt;
+&lt;h2 id=&quot;nablowrimo-the-rules&quot;&gt;NaBloWriMo - The Rules&lt;/h2&gt;
+&lt;p&gt;NaNoWriMo has a simple definition: one month, 50,000 words. Oh, and it should be fiction.&lt;/p&gt;
+&lt;p&gt;So what will National Blog Writing Month be about? I eventually settled on the following:&lt;/p&gt;
+&lt;h3 id=&quot;words&quot;&gt;Words&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Write at least one paragraph each day&lt;/li&gt;
+&lt;li&gt;Publish a post every week (so you end up with four at the end of the month)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;styling&quot;&gt;Styling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Start with the basics, don’t change anything&lt;/li&gt;
+&lt;li&gt;Tweak one thing a day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;
+Designed to not take more than half an hour a day, it’s all about being set up for succes. A challenge we should all be able to take on, right? &lt;/p&gt;
+&lt;p&gt;And if you’re really keen, tweet (&lt;code&gt;#NaBloWriMo&lt;/code&gt;) letting the world know you wrote your paragraph for the day!&lt;/p&gt;
+&lt;h2 id=&quot;how-to-start&quot;&gt;How to start&lt;/h2&gt;
+&lt;p&gt;Set up a blog on a platform of your choosing. Edit the &lt;em&gt;bare minimum&lt;/em&gt;. Delete the boilerplate posts, change the title, and maybe, just maybe, change the background colour. That’s it.&lt;/p&gt;
+&lt;p&gt;Then focus on publishing one post. &lt;/p&gt;
+&lt;p&gt;This one post could be anything. An introduction to yourself. The reason why you’d like to blog. A tour of the city you currently live in and your favourite restaurants. What you had for dinner last night. Pictures of your dog. It doesn’t matter. What matters is that you write down some words and share them. &lt;/p&gt;
+&lt;p&gt;For me, it’s this one. And hopefully one that will inspire you to join me in this challenge!&lt;/p&gt;
 </description>
     </item>
   </channel>
