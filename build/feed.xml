@@ -5,9 +5,52 @@
     <atom:link href="http://www.mennenia.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.mennenia.com</link>
     <description></description>
-    <pubDate>Sun, 01 Nov 2015 08:30:00 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2015 10:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Changing up the terminal</title>
+      <link>http://www.mennenia.com/articles/2015-11-08-terminalsetup/</link>
+      <pubDate>Sun, 08 Nov 2015 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.mennenia.com/articles/2015-11-08-terminalsetup/</guid>
+      <author></author>
+      <description>&lt;p&gt;I recently overhauled my terminal. I had a great setup when I was in university, because I relied on the command line a lot, but since doing iOS development I’ve let it slide. All I used it for was git, and the (by now) broken zsh configuration I had seemed to do the job.&lt;/p&gt;
+&lt;p&gt;I’ve been wanting to try the fish shell for ages, but it wasn’t until I saw it all come together in &lt;a href=&quot;http://twitter.com/daniel1of1&quot;&gt;Daniel&lt;/a&gt;’s terminal that I finally set aside time to do so. &lt;/p&gt;
+&lt;h2 id=&quot;setting-up-a-hotkey&quot;&gt;Setting up a hotkey&lt;/h2&gt;
+&lt;p&gt;First things first, easy access. &lt;/p&gt;
+&lt;p&gt;I used to have a hotkey for a terminal window. That was the whole reason I used iTerm. Why did I even stop doing that?!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download and install &lt;a href=&quot;https://www.iterm2.com&quot;&gt;iTerm2&lt;/a&gt; if you’re not using it already&lt;/li&gt;
+&lt;li&gt;Go to preferences (cmd+, as always), “keys” tab&lt;/li&gt;
+&lt;li&gt;Click on “Show/hide iTerm with a system-wide hotkey”&lt;/li&gt;
+&lt;li&gt;Decide on the key (I use alt+space)&lt;/li&gt;
+&lt;li&gt;I would recommend getting a dedicated profile so you can dim the background appropriately&lt;/li&gt;
+&lt;li&gt;Try it!&lt;/li&gt;
+&lt;li&gt;Prettify to your liking under profiles&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2015-11-08-terminalsetup/itermpreferences.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;About the dimming - I like that you can still see bits of the background, hence I’ve got a dedicated profile where I can set the opacity of the background colour. You could also make it your default profile and it will most likely be solid, depending on what you normally use.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2015-11-08-terminalsetup/dimmedview.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;fish&quot;&gt;Fish&lt;/h2&gt;
+&lt;p&gt;Secondly, I felt there was more my shell should be doing for me. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fishshell.com&quot;&gt;Fish&lt;/a&gt; suggest things as you type! This reminds me of this &lt;a href=&quot;http://fishshell.com&quot;&gt;product&lt;/a&gt; I used to work on, lol…&lt;/p&gt;
+&lt;p&gt;Seriously though, fish predicts commands based on what you’ve typed previously, and you can autocomplete these with the right arrow (or left I suppose, if you’re computer is set to Right to Left? I never tried..).&lt;/p&gt;
+&lt;p&gt;Installing is easy if you have &lt;a href=&quot;http://brew.sh&quot;&gt;homebrew&lt;/a&gt;: &lt;code&gt;brew install fish&lt;/code&gt;, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found &lt;a href=&quot;http://fish&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;customised-themes&quot;&gt;Customised themes&lt;/h2&gt;
+&lt;p&gt;Lastly, I like a pretty shell.&lt;/p&gt;
+&lt;p&gt;Just like zsh (which I’ve used the past 6 years), fish has an “oh my” version which allows for easy theming. Check it out &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Like I mentioned, I blatantly copied Daniel and choose the &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#agnoster&quot;&gt;agnoster&lt;/a&gt; theme. Mainly because it has thick chunky bits of colour, and that made it very easy to read. I like it when the prompt is visually quite separate from the commands I will be typing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2015-11-08-terminalsetup/prompt.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Speaking of colour, you can download iTerm profiles / colour schemes from &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#agnoster&quot;&gt;this awesome site&lt;/a&gt;. It makes life so much easier! I went for n0tch2k, because I like that muted effect that still has some bright pastel colours. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/n0tch2k.png&quot; alt=&quot;n0tch2k&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Then finally, you need a “powerline font” for Agnoster to work well, or else the arrows won’t show up as expected. If you don’t have those, it may be that your prompt looks a bit like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2015-11-08-terminalsetup/brokenprompt.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The fonts can be found &lt;a href=&quot;https://github.com/powerline/fonts&quot;&gt;here&lt;/a&gt;, and there is a nice bash script to install them all. &lt;/p&gt;
+&lt;p&gt;I opted for &lt;strong&gt;Hack&lt;/strong&gt;, and had the non-ASCII font set to a bit larger so that the arrows would match the coloured block precisely. I did this for both the default profile and the hotkey window, by the way. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2015-11-08-terminalsetup/fontsettings.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And there you have it. I know there’s plenty more customisation that you can do, and I might explore that in the future, but for now I’m glad that I have an easily accessible, smart, and pretty shell to work with.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>“NaBloWriMo”</title>
       <link>http://www.mennenia.com/articles/2015-11-01-nablowrimo/</link>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>Changing up the terminal - Mennenia
+    </title>
+    <link rel="alternate" href="http://www.mennenia.com/feed.xml" type="application/rss+xml" title="">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body class="article-detail">
+    <header class="header">
+      <div class="content-wrap">
+        <h1>Changing up the terminal</h1>
+        <p class="author">Written by <span class="author"><a href="http://twitter.com/mennenia">Maxim</a></span>
+        </p>
+      </div>
+    </header>
+    <div id="content">
+      <div class="content-wrap">
+        <article class="article">
+          <section class="content"><p>I recently overhauled my terminal. I had a great setup when I was in university, because I relied on the command line a lot, but since doing iOS development I’ve let it slide. All I used it for was git, and the (by now) broken zsh configuration I had seemed to do the&nbsp;job.</p>
+<p>I’ve been wanting to try the fish shell for ages, but it wasn’t until I saw it all come together in <a href="http://twitter.com/daniel1of1">Daniel</a>’s terminal that I finally set aside time to do&nbsp;so. </p>
+<h2 id="setting-up-a-hotkey">Setting up a&nbsp;hotkey</h2>
+<p>First things first, easy&nbsp;access. </p>
+<p>I used to have a hotkey for a terminal window. That was the whole reason I used iTerm. Why did I even stop doing&nbsp;that?!</p>
+<ol>
+<li>Download and install <a href="https://www.iterm2.com">iTerm2</a> if you’re not using it&nbsp;already</li>
+<li>Go to preferences (cmd+, as always), “keys”&nbsp;tab</li>
+<li>Click on “Show/hide iTerm with a system-wide&nbsp;hotkey”</li>
+<li>Decide on the key (I use&nbsp;alt+space)</li>
+<li>I would recommend getting a dedicated profile so you can dim the background&nbsp;appropriately</li>
+<li>Try&nbsp;it!</li>
+<li>Prettify to your liking under&nbsp;profiles</li>
+</ol>
+<p><img src="/articles/2015-11-08-terminalsetup/itermpreferences.png" alt=""></p>
+<p>About the dimming - I like that you can still see bits of the background, hence I’ve got a dedicated profile where I can set the opacity of the background colour. You could also make it your default profile and it will most likely be solid, depending on what you normally&nbsp;use.</p>
+<p><img src="/articles/2015-11-08-terminalsetup/dimmedview.png" alt=""></p>
+<h2 id="fish">Fish</h2>
+<p>Secondly, I felt there was more my shell should be doing for&nbsp;me. </p>
+<p><a href="http://fishshell.com">Fish</a> suggest things as you type! This reminds me of this <a href="http://fishshell.com">product</a> I used to work on,&nbsp;lol…</p>
+<p>Seriously though, fish predicts commands based on what you’ve typed previously, and you can autocomplete these with the right arrow (or left I suppose, if you’re computer is set to Right to Left? I never&nbsp;tried..).</p>
+<p>Installing is easy if you have <a href="http://brew.sh">homebrew</a>: <code>brew install fish</code>, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found <a href="http://fish">here</a>.</p>
+<h2 id="customised-themes">Customised&nbsp;themes</h2>
+<p>Lastly, I like a pretty&nbsp;shell.</p>
+<p>Just like zsh (which I’ve used the past 6 years), fish has an “oh my” version which allows for easy theming. Check it out <a href="https://github.com/oh-my-fish/oh-my-fish">here</a>. </p>
+<p>Like I mentioned, I blatantly copied Daniel and choose the <a href="https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#agnoster">agnoster</a> theme. Mainly because it has thick chunky bits of colour, and that made it very easy to read. I like it when the prompt is visually quite separate from the commands I will be&nbsp;typing.</p>
+<p><img src="/articles/2015-11-08-terminalsetup/prompt.png" alt=""></p>
+<p>Speaking of colour, you can download iTerm profiles / colour schemes from <a href="https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#agnoster">this awesome site</a>. It makes life so much easier! I went for n0tch2k, because I like that muted effect that still has some bright pastel&nbsp;colours. </p>
+<p><img src="https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/n0tch2k.png" alt="n0tch2k"></p>
+<p>Then finally, you need a “powerline font” for Agnoster to work well, or else the arrows won’t show up as expected. If you don’t have those, it may be that your prompt looks a bit like&nbsp;this:</p>
+<p><img src="/articles/2015-11-08-terminalsetup/brokenprompt.png" alt=""></p>
+<p>The fonts can be found <a href="https://github.com/powerline/fonts">here</a>, and there is a nice bash script to install them&nbsp;all. </p>
+<p>I opted for <strong>Hack</strong>, and had the non-<span class="caps">ASCII</span> font set to a bit larger so that the arrows would match the coloured block precisely. I did this for both the default profile and the hotkey window, by the&nbsp;way. </p>
+<p><img src="/articles/2015-11-08-terminalsetup/fontsettings.png" alt=""></p>
+<p>And there you have it. I know there’s plenty more customisation that you can do, and I might explore that in the future, but for now I’m glad that I have an easily accessible, smart, and pretty shell to work&nbsp;with.</p>
+</section>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="content-wrap">
+        <div class="nav"><a href="/">« Full blog</a></div>
+        <section class="about"><p>Hi I’m Maxim :). I’m trying to get back into the habit of blogging by tinkering on this for the whole month of November 2015. </p>
+
+        </section>
+        <section class="copy">
+          <p>&copy; 2015 Mennenia &mdash; powered by&nbsp;<a href="https://github.com/jnordberg/wintersmith">Wintersmith</a>
+          </p>
+        </section>
+      </div>
+    </footer>
+  </body>
+</html>
