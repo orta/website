@@ -35,7 +35,7 @@
 &lt;p&gt;Secondly, I felt there was more my shell should be doing for me. &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://fishshell.com&quot;&gt;Fish&lt;/a&gt; suggest things as you type! This reminds me of this &lt;a href=&quot;http://fishshell.com&quot;&gt;product&lt;/a&gt; I used to work on, lol…&lt;/p&gt;
 &lt;p&gt;Seriously though, fish predicts commands based on what you’ve typed previously, and you can autocomplete these with the right arrow (or left I suppose, if you’re computer is set to Right to Left? I never tried..).&lt;/p&gt;
-&lt;p&gt;Installing is easy if you have &lt;a href=&quot;http://brew.sh&quot;&gt;homebrew&lt;/a&gt;: &lt;code&gt;brew install fish&lt;/code&gt;, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found &lt;a href=&quot;http://fish&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Installing is easy if you have &lt;a href=&quot;http://brew.sh&quot;&gt;homebrew&lt;/a&gt;: &lt;code&gt;brew install fish&lt;/code&gt;, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found &lt;a href=&quot;http://fishshell.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;customised-themes&quot;&gt;Customised themes&lt;/h2&gt;
 &lt;p&gt;Lastly, I like a pretty shell.&lt;/p&gt;
 &lt;p&gt;Just like zsh (which I’ve used the past 6 years), fish has an “oh my” version which allows for easy theming. Check it out &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
