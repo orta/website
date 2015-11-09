@@ -38,7 +38,7 @@ Secondly, I felt there was more my shell should be doing for me.
 
 Seriously though, fish predicts commands based on what you’ve typed previously, and you can autocomplete these with the right arrow (or left I suppose, if you’re computer is set to Right to Left? I never tried..).
 
-Installing is easy if you have [homebrew](http://brew.sh): `brew install fish`, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found [here](http://fish).
+Installing is easy if you have [homebrew](http://brew.sh): `brew install fish`, done! Don’t worry if you don’t have brew (although I would recommend it), more installation info can be found [here](http://fishshell.com).
 
 ## Customised themes
 
