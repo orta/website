@@ -5,9 +5,51 @@
     <atom:link href="http://www.mennenia.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.mennenia.com</link>
     <description></description>
-    <pubDate>Sun, 08 Nov 2015 10:00:00 +0000</pubDate>
+    <pubDate>Tue, 10 Nov 2015 17:15:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>My first podcast</title>
+      <link>http://www.mennenia.com/articles/2015-11-10-firstpodcast/</link>
+      <pubDate>Tue, 10 Nov 2015 17:15:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.mennenia.com/articles/2015-11-10-firstpodcast/</guid>
+      <author></author>
+      <description>&lt;p&gt;Something very exciting happened a few weeks ago. I recorded my first podcast! I was interviewed by &lt;a href=&quot;https://twitter.com/ameliahumfress&quot;&gt;Amelia&lt;/a&gt; from &lt;a href=&quot;https://www.steer.me&quot;&gt;Steer&lt;/a&gt; for their upcoming conference &lt;a href=&quot;http://www.beyondconf.co&quot;&gt;Beyond&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It’s out now, and you can listen to it &lt;a href=&quot;http://beyondconf.co/an-interview-with-maxim-cramer/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;h2 id=&quot;recording&quot;&gt;Recording&lt;/h2&gt;
+&lt;p&gt;Recording a podcast is quite an interesting and surreal experience. After having recorded it, I couldn’t remember what it was that I said at all. And even weirder was that I experienced this feeling of “stage fright” &lt;em&gt;after&lt;/em&gt; having recorded it. I think because I knew I wouldn’t be able to change anything anymore, and other people would be listening to it? Very odd.&lt;/p&gt;
+&lt;p&gt;Either way, it’s all done. I’m actually quite happy with it! They edited out one or two gaps of silence and a side comment here or there, but in all honesty, the way you hear it was pretty much how it was recorded. &lt;/p&gt;
+&lt;h2 id=&quot;shownotes&quot;&gt;Shownotes&lt;/h2&gt;
+&lt;p&gt;I wanted to add some additional show notes. For those of you that listened to it and are new to iOS, allow me to expand on some of the things I said. &lt;/p&gt;
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;There are many! Building for a device can be quite different to building for web, say. But the community is lovely, and has thankfully taken the time to document their knowledge, trials, and errors carefully.&lt;/p&gt;
+&lt;p&gt;Official:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.apple.com/videos/&quot;&gt;Apple WWDC Videos&lt;/a&gt; - See these as “Apple University”, where they take you though all the available API they create for developers and how to use and leverage them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.apple.com/swift/resources/&quot;&gt;Official Swift Resources&lt;/a&gt; - All about helping you get started with Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/&quot;&gt;Official Swift Docs&lt;/a&gt; - Tells you all about the language. Available on the iBooks store for free also.&lt;/li&gt;
+&lt;li&gt;Official Class Docs - The language is separate from the framework Apple provides to leverage what the OS has to offer. Always consult the docs on how to’s and best practices! Example of UIView (to display things) &lt;a href=&quot;https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Community:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.objc.io/issues/&quot;&gt;Objc.io&lt;/a&gt; - Purposefully written content by industry experts on all major topics in iOS development. Excellent.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nshipster.com&quot;&gt;NSHipster&lt;/a&gt; - Interesting content. If you’re discovering quirks and oddities about iOS / Mac development, chances are you’ll find a post about that exact issue here.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iosdevweekly.com&quot;&gt;iOSDevWeekly&lt;/a&gt; - A weekly curated newsletter rounding up interesting blog articles on iOS development.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://swiftnews.curated.co&quot;&gt;This week in Swift&lt;/a&gt; - Another great curated newsletter, focussing on Swift specifically. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vimeo.com/user20904333/videos/page:1/sort:date&quot;&gt;NSLondon Videos&lt;/a&gt; - The London meetup I mentioned. It has been running for a long time and thus collected a great deal of community shared information, tips, and tricks — all recorded. &lt;/li&gt;
+&lt;li&gt;Open Source Code - One of the best ways to learn is to see how others do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;community&quot;&gt;Community&lt;/h3&gt;
+&lt;p&gt;Find local meetups near you. &lt;a href=&quot;http://www.meetup.com&quot;&gt;Meetup&lt;/a&gt; is a fantastic resource for getting to know the local scene. Also, head to Twitter and you’ll find plenty there. &lt;/p&gt;
+&lt;p&gt;Leveraging the community is one of the best things you can do, because you realise you’re not alone in your struggles. Developing code comes with its own set of quirks that takes some time to figure out and get used to. None of us worked it all out overnight! &lt;/p&gt;
+&lt;p&gt;It can also be a very inspiring experience. I remember my first WWDC, my first meetup, and it made a significant difference in how I continued to approach my work. &lt;/p&gt;
+&lt;h3 id=&quot;go-at-your-own-pace&quot;&gt;Go at your own pace&lt;/h3&gt;
+&lt;p&gt;Don’t feel like you have to conquer everything in one go. I still don’t know every single API or “domain”. For example, I have a lot of experience with keyboards from my time at SwiftKey, but I’ve not done much with the camera (whereas, likely, someone who works on Instagram has). &lt;/p&gt;
+&lt;p&gt;Like I mention in the podcast: it’s easy to feel like you should know everything and if you don’t, you should work on acquiring this knowledge day and night. Yes, curiosity is fantastic. Yes, studying the ins and outs of iOS development is good. But running on no sleep and experiencing stress on a daily basis isn’t. Take a deep breath. Do what works &lt;em&gt;for you&lt;/em&gt;. &lt;/p&gt;
+&lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Finally, a big thank you to those who’ve already shared it, tweeted it, and so forth. It means a lot :).&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Changing up the terminal</title>
       <link>http://www.mennenia.com/articles/2015-11-08-terminalsetup/</link>
