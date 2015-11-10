@@ -5,7 +5,7 @@ date: 2015-11-10 17:15
 template: article.jade
 ---
 
-Something very exciting happened a few weeks ago. I recorded my first podcast! I was interviewed by [Amelia](https://twitter.com/ameliahumfress) from [Steer](https://www.steer.me) for their upcoming conference [Beyond](http://www.beyondconf.co).
+Something very exciting happened a few weeks ago. I recorded my first podcast! I was interviewed by [Amelia](https://twitter.com/ameliahumfress) from [Steer](https://www.steer.me) for their upcoming conference [Beyond](http://www.beyondconf.co), as I’ll be speaking on Usability Testing there.
 
 It’s out now, and you can listen to it [here](http://beyondconf.co/an-interview-with-maxim-cramer/). 
 
