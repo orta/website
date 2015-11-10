@@ -7,7 +7,7 @@ body {
   font-family: 'Lora', serif;
   font-size: 21px;
   line-height: 1.52;
-  background-color: #FFF7F0;
+  background-color: #F7F3EB;
   text-rendering: optimizeLegibility;
 }
 
@@ -211,7 +211,7 @@ footer .copy, footer .copy a {
 }
 
 .article header .date span {
-  background-color: #FFF7F0;
+  background-color: #F7F3EB;
   padding: 0 0.7em;
 }
 
