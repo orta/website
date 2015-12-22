@@ -68,7 +68,7 @@ From left to right, top to bottom:
 1. Envision and going after what I want
 1. Designing and shipping a native icon library
 1. Being less afraid
-1. Being kind
+1. Choosing to respond with kindness
 1. Put effort into what I wear
 1. Go to Berlin again
 1. -
@@ -123,7 +123,7 @@ A project I’ve been wanting to work on for a long time. It means combining my 
 
 Funnily enough, I think this worked out pretty well. My body has never felt this scared in my life, yet my mind is slowly becoming more and more resilient than ever.
 
-### Being kind - 🤔
+### Choosing to respond with kindness - 🤔
 
 I’d like to think I’ve done this. I have received quite some positive feedback, though I’m sure I’ve managed to piss people off also. Some of these things are continuous journeys. I could be kinder to myself however, and in the last few months I have tried to make improvements there also.
 
