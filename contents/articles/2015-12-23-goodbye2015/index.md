@@ -72,7 +72,7 @@ From left to right, top to bottom:
 1. Put effort into what I wear
 1. Go to Berlin again
 1. -
-1. Make a panting
+1. Make a painting
 1. Get back into photography
 1. See at least one friend from a different continent that I hadn’t in a while
 1. Work more on illustrations
@@ -139,7 +139,7 @@ Berlin holds a special place in my heart and it was great being there again. Eve
 
 I made it through the year I guess? 
 
-### Make a panting ✅😃
+### Make a painting ✅😃
 
 I went to a live drawing class this year, and made a [sketch][drawingtweet] (nswf) I was pretty happy with! In general, I’ve gotten more into painting again. I’m still trying to dedicate more time to it, but it’s headed in the right direction.
 
